@@ -14,6 +14,13 @@
   "license": "MIT",
   "dependencies": {
     "@docusaurus/core": "2.0.0-beta.2",
+    "@docusaurus/plugin-content-blog": "2.0.0-beta.2",
+    "@docusaurus/plugin-content-docs": "2.0.0-beta.2",
+    "@docusaurus/plugin-content-pages": "2.0.0-beta.2",
+    "@docusaurus/plugin-debug": "2.0.0-beta.2",
+    "@docusaurus/plugin-google-analytics": "2.0.0-beta.2",
+    "@docusaurus/plugin-google-gtag": "2.0.0-beta.2",
+    "@docusaurus/plugin-sitemap": "2.0.0-beta.2",
     "@docusaurus/theme-classic": "https://github.com/rzdong/-docusaurus-theme-classic.git#main",
     "@docusaurus/theme-search-algolia": "2.0.0-beta.2"
   },
